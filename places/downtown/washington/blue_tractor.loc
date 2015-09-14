@@ -1,0 +1,12 @@
+name: Blue Tractor
+url: http://www.bluetractor.net/bta/a2/index
+addr: 207 E Washington St, Ann Arbor, MI
+hours:
+	mo-sa: 11-2am
+	su: noon-midnight
+
+DESCRIPTION: bar-b-que
+
+happy hour:
+	m-f: 3pm-6pm and 10pm-1am
+
